@@ -12,20 +12,20 @@ return`╭──「 📖  *PRICE JADIBOT*」
 │
 ├─ 「 💰  *PAYMENT* 」
 │
-│ ⤷ *Dana [Diutamakan]*
+│ ⤷ *Dana*
 │ ⤷ *Ovo*
-│ ⤷ *Gopay*
-│ ⤷ *Pulsa Telkom*
+│ ⤷ *Gopay[Diutamakan]*
+│ ⤷ *Pulsa Indosat dan XL*
 │
 ├─ 「 👨‍💻  *RUN ON* 」
 │
 │ ⤷ *Heroku [Diutamakan]*
-│ ⤷ *Railway* 
+│ ⤷ *Termux* 
 │
 ├─ 「 📝  *NOTES* 」
 │
-│ ⤷ _Tidak perlu termux_
-│ ⤷ _Minat? Hubungi 0887435047326_
+│ ⤷ _Bisa menggunakan RDP dan VPS_
+│ ⤷ _Minat? Hubungi 085695157547_
 │
 ╰──「 *Thank's* 」
 `
