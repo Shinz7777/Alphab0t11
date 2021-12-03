@@ -1,5 +1,5 @@
 /*
-Support channel ZEEONE OFC
+Support gue dengan donasi
 
 
 Yang jual sc ini anak haram
