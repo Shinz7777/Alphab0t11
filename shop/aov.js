@@ -1,5 +1,5 @@
 const list_aov = (prefix) => {
-return `*ЯΣXIBӨƬ*
+return `*ЯΣXIBӨT*
 			
 PROSES	1-60Mnt Max 1X24 Jam		
 OPEN	08.00-21.00		
